@@ -1,1 +1,15 @@
-Not Found
+{
+  "version": "0.2.4",
+  "notes": "## What's New\n\nSee the [CHANGELOG](https://github.com/fiftyk/muhuasha/blob/main/CHANGELOG.md) for details.\n\n## Installation\n\n### macOS\nDownload and open the `.dmg` file, then drag Muhuasha to Applications.\n\n### Windows\nDownload and run the `.msi` installer.\n\n---\n\nGenerated with GitHub Actions",
+  "pub_date": "2025-10-18T11:22:19.365Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGcrdk1oNHJ6MndVT1hTK2oyTUdSYjY5K3Y0RFpOVHJGUUJQSG0vQ1pGMTVIaTdFZlk2VkV1ZWJHb1ZoR0Mzc3d3RUtmeFdtTzB5b1R5bm9lVWt2NVUwaVZDdytqU1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNzg2MDE5CWZpbGU6bXVodWFzaGEuYXBwLnRhci5negpDWVN3VjJ0NEhGcXA3NDRXTS90NWRZNWpHY012R3cwdTRad1B6R1VVMSt0Y3p0Qy93N0JvWHRoOXVQR2VkbElUNHkyVU85YlJBRmNJS0UwR0lpTTFBdz09Cg==",
+      "url": "https://github.com/fiftyk/muhuasha/releases/download/v0.2.4/muhuasha_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGcrdk1oNHJ6MnhCWW1sb2ZXcXZkL0craUg3YnFadVJ4RXhNUTNGdzAyU1RvM0xrMVVaUFY5SjZ3cXNMaXA4d2psU09yMEloMXdySTltRGJxcGdxOHViT3NEcU8vL0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNzg2NTM1CWZpbGU6bXVodWFzaGFfMC4yLjRfeDY0X2VuLVVTLm1zaS56aXAKUHhwTzZIQmllWEFpNmlKMkdTUmdMN0J2MzJTalpOMS82eFR0MWxySWVLalJSZW9TZXNvNURKRDJnc20wV2hSc2lwelIrL21TamZnTXhXejdRc3R5Q2c9PQo=",
+      "url": "https://github.com/fiftyk/muhuasha/releases/download/v0.2.4/muhuasha_0.2.4_x64_en-US.msi.zip"
+    }
+  }
+}
