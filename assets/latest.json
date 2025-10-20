@@ -1,15 +1,15 @@
 {
-  "version": "0.4.2",
+  "version": "0.5.0",
   "notes": "## What's New\n\nSee the [CHANGELOG](https://github.com/fiftyk/muhuasha/blob/main/CHANGELOG.md) for details.\n\n## Installation\n\n### macOS\nDownload and open the `.dmg` file, then drag Muhuasha to Applications.\n\n### Windows\nDownload and run the `.msi` installer.\n\n---\n\nGenerated with GitHub Actions",
-  "pub_date": "2025-10-19T03:40:20.604Z",
+  "pub_date": "2025-10-19T16:42:06.374Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGcrdk1oNHJ6MjM3TkVhbVpkcGtvNlpsRFBpNS9LNVFGb3FBRWN3ZWlKdDB0UVpsSGNNZVdlN2llMzRsajd6aE9nZWRsMmhBUUZkT3Zwa2s4NEtYRGJ1YU9oVjNVeXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwODQ0NTIxCWZpbGU6bXVodWFzaGEuYXBwLnRhci5negozYy8wV0dOdk54RGpKYkpxWVpYM0NNUEEwNUQwZW1LOTB0T1VMY3BxZEtyYzhLejJSTjlTTUFOVWlaclZIQzN2SlkzbVVBQUJycDRoT0pIZkJBcC9BZz09Cg==",
-      "url": "https://github.com/fiftyk/muhuasha/releases/download/v0.4.2/muhuasha_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGcrdk1oNHJ6MnpGRmNzUXJwNjN4ZTlUVmJ6bE5TQmhlcWlPN0RtOVFCaSt1ZzNzZ205cTMxRjkvSUFTUTM3c2ZhcVBwQ3J1Nk0rYVhnY0pDSWhwK0lONnMrUko1Y2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwODkxMzk2CWZpbGU6bXVodWFzaGEuYXBwLnRhci5negpXZVgwc2tnUnJ1dmJWQkFRSXFzLzZPRkxpT05FTWpUa1laMGRHOEVwMS8rRU1kUGRhbDY2dEdHWDEyT2l3VnRMVlpHWnRJb2hoalhmUkZSZU9qRnNEdz09Cg==",
+      "url": "https://github.com/fiftyk/muhuasha/releases/download/v0.5.0/muhuasha_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGcrdk1oNHJ6MjBIMW5iVFJqMG5IL0dIOUx5YXR4RUtKLzhoQmxCSi95Y0hZVlNzbGZCcDdGVG52UWVURXlEOTFiSTZKNnptdDB1MlJNaXZhWVlOSi90VHB1QmZPU0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwODQ1MjE2CWZpbGU6bXVodWFzaGFfMC40LjJfeDY0X2VuLVVTLm1zaQpNeUdQcENxMGFMbi8wZGcxaGhZVDFqdG55cllteGZOYWxPdVJsWHJtZTV6WWR4TmJFZTRhWkcvaWgvSDJENnVMTGl0TFB0RzUwT2NST3VQQVJMYnFDdz09Cg==",
-      "url": "https://github.com/fiftyk/muhuasha/releases/download/v0.4.2/muhuasha_0.4.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMGcrdk1oNHJ6MitPejV3N0N2MGwvaldwWVhSdDlEUHhpNjdiRXgydWxkU1ptLzhVODFrRzhOVzZpOGxCSzAyTlhYSXlYcGtuTWhBYjZybkxuYkZCRWI4WUdpQmJGWFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwODkyMTIzCWZpbGU6bXVodWFzaGFfMC41LjBfeDY0X2VuLVVTLm1zaQpiYnRIVnB6dTdDWXd3WDJ6K3BxdlllTDdVZFZscGtkS1M0cWhGT1F5Wlh0R0NNVStZUUlKL3Z2b3lIOUJmSVZWRXlkQkl2eE5QYVExVmt3Q0VnYTNCdz09Cg==",
+      "url": "https://github.com/fiftyk/muhuasha/releases/download/v0.5.0/muhuasha_0.5.0_x64_en-US.msi"
     }
   }
 }
